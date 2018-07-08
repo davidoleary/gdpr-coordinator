@@ -6,7 +6,8 @@ Developer notes
 -------------
 
 * Code is not as clean as i would like due to a hard deadline
-* I chose concentrate on getting a full suite of tests in place as this will allow any developer to refactor the code with a safety net.
+* I chose to concentrate on getting a full suite of tests in place as this will allow any developer to refactor the code with a safety net.
+* Developed using TDD
 * The tests are a mix of unit tests and integration tests.
 * Pure integration tests are in the in integration test folder.
     * The integration tests only cover the node app. They do not send real requests to hybris/NAV etc.
